@@ -1,2 +1,2 @@
-# Libft
-<h1 style="color:#5F0E61;">My Library - C Functions</h1> 
+<h1>Libft</h1>
+<h2>My Library - C Functions</h2> 
