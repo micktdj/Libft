@@ -1,2 +1,2 @@
 # Libft
-My Library - C Functions 
+<h1>My Library - C Functions</h1> 
